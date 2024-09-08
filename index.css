@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(255, 229, 203, 0.42);
+}
+#bar1{
+    background-color: #4c44bb;
+}
+#card1{
+    background-color: black;
+    color: white;
+}
+.hero{
+    background-color: #07236b;
+}
+.navbar{
+    background-color: rgba(55, 36, 89, 0.98);
+}
+#footer{
+    background-color: rgba(55, 36, 89, 0.98);
+}
+@media (max-width: 768px) {
+    .about-me .row {
+        text-align: center;
+    }
+}
